@@ -1,0 +1,196 @@
+"UserRoamingConfigStore"
+{
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+		"WebRecent0_URL"		"https://store.steampowered.com/phone/add"
+		"WebRecent0_Name"		"管理手机号码"
+		"WebFrequent0_URL"		"https://www.baidu.com/"
+		"WebFrequent0_Name"		"百度一下，你就知道"
+		"WebFrequent0_Access"		"3"
+		"WebRecent1_URL"		"http://www.baidu.com/link?url=a_tmzTSIau70LVhKbz0jcwIv9k8niDY36sVMztMQjzeeBIcQw-VobIHmHNeIS9np06YZbv6b6YyDl5MH2pMUxK&ie=utf-8&f=8&tn=baidu&wd=sd%E6%95%A2%E8%BE%BE"
+		"WebRecent1_Name"		"www.baidu.com/link?url=a_tmzTSIau70LVhKbz0jcwIv9k8niDY36sVMztMQjzeeBIcQw-VobIHmHNeIS9np06YZbv6b6YyDl5MH2pMUxK&ie=utf-8&f=8&tn=baidu&wd=sd敢达"
+		"WebFrequent1_URL"		"http://steamcommunity.com/profiles/76561198166958601/edit/"
+		"WebFrequent1_Name"		"Steam Community :: Edit Profile"
+		"WebFrequent1_Access"		"2"
+		"WebRecent2_URL"		"http://steamcommunity.com/app/271590/discussions/"
+		"WebRecent2_Name"		"Grand Theft Auto V General Discussions :: Steam Community"
+		"WebFrequent2_URL"		"http://steamcommunity.com/profiles/76561198166958601/edit"
+		"WebFrequent2_Name"		"Steam Community :: Invites :: Eature"
+		"WebFrequent2_Access"		"2"
+		"WebRecent3_URL"		"http://steamcommunity.com/app/271590/discussions/0/611701999526818617/"
+		"WebRecent3_Name"		"在steam上买的是实体碟还是要下载？ :: Grand Theft Auto V General Discussions"
+		"WebFrequent3_URL"		"https://support.steampowered.com/kb_article.php?p_faqid=301"
+		"WebFrequent3_Name"		"Account Security Recommendations - Account Creation and Management - Knowledge Base - Steam Support"
+		"WebFrequent3_Access"		"2"
+		"WebRecent4_URL"		"https://store.steampowered.com/account/"
+		"WebRecent4_Name"		"781746820 的帐号"
+		"WebFrequent4_URL"		"http://steamcommunity.com/profiles/76561198166958601/home/invites/"
+		"WebFrequent4_Name"		"Steam Community :: Invites :: Eature"
+		"WebFrequent4_Access"		"1"
+		"WebRecent5_URL"		"http://error/"
+		"WebRecent5_Name"		"错误"
+		"WebFrequent5_URL"		"https://store.steampowered.com/phone/add"
+		"WebFrequent5_Name"		"管理手机号码"
+		"WebFrequent5_Access"		"1"
+		"WebFav5_URL"		"https://www.baidu.com/"
+		"WebFav5_Name"		"百度一下，你就知道"
+		"WebFav6_URL"		"http://steamcommunity.com/app/271590/discussions/"
+		"WebFav6_Name"		"Grand Theft Auto V General Discussions :: Steam Community"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SteamDefaultDialog"		"#app_games"
+				"apps"
+				{
+					"271590"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"258160"
+					{
+					}
+					"388520"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"287700"
+					{
+						"cloudenabled"		"1"
+					}
+					"550"
+					{
+						"cloudenabled"		"1"
+					}
+					"394510"
+					{
+						"cloudenabled"		"1"
+					}
+					"678950"
+					{
+						"cloudenabled"		"1"
+					}
+					"310950"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"431960"
+					{
+						"Hidden"		"0"
+						"cloudenabled"		"0"
+					}
+					"1541780"
+					{
+						"cloudenabled"		"0"
+					}
+					"1446780"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"DesktopShortcutCheck"		"1"
+				"StartMenuShortcutCheck"		"0"
+				"SurveyDate"		"2021-07-09"
+				"SurveyDateVersion"		"1270657396205518524"
+				"FriendsUI"
+				{
+					"FriendsUIJSON"		"{\"bNotifications_ShowIngame\":true,\"bNotifications_ShowOnline\":false,\"bNotifications_ShowMessage\":true,\"bNotifications_EventsAndAnnouncements\":true,\"bSounds_PlayIngame\":false,\"bSounds_PlayOnline\":false,\"bSounds_PlayMessage\":true,\"bSounds_EventsAndAnnouncements\":false,\"bAlwaysNewChatWindow\":false,\"bForceAlphabeticFriendSorting\":false,\"nChatFlashMode\":0,\"bRememberOpenChats\":true,\"bCompactQuickAccess\":false,\"bCompactFriendsList\":false,\"bNotifications_ShowChatRoomNotification\":true,\"bSounds_PlayChatRoomNotification\":true,\"bHideOfflineFriendsInTagGroups\":false,\"bHideCategorizedFriends\":false,\"bCategorizeInGameFriendsByGame\":true,\"nChatFontSize\":2,\"b24HourClock\":false,\"bDoNotDisturbMode\":false,\"bDisableEmbedInlining\":false,\"bSignIntoFriends\":true,\"bDisableSpellcheck\":false,\"bDisableRoomEffects\":false,\"bAnimatedAvatars\":true,\"featuresEnabled\":{\"DoNotDisturb\":1,\"LoaderWindowSynchronization\":1,\"NonFriendMessageHandling\":1,\"NewVoiceHotKeyState\":1,\"PersonaNotifications\":1,\"ServerVirtualizedMemberLists\":1,\"SteamworksChatAPI\":1},\"bSingleWindowMode\":false}"
+				}
+				"ShowScreenshotManager"		"0"
+			}
+		}
+	}
+	"controller_config"
+	{
+		"271590"
+		{
+			"usetime"		"3884.237548828125"
+		}
+		"431960"
+		{
+			"usetime"		"3963.857177734375"
+		}
+		"413080"
+		{
+			"usetime"		"0"
+		}
+		"413090"
+		{
+			"usetime"		"0"
+		}
+		"443510"
+		{
+			"usetime"		"0"
+		}
+		"dragon ball fighterz"
+		{
+			"usetime"		"926.26812744140625"
+		}
+		"251040"
+		{
+			"usetime"		"31535.91015625"
+		}
+		"394510"
+		{
+			"usetime"		"5600.59765625"
+		}
+		"678950"
+		{
+			"usetime"		"262596"
+		}
+		"9480"
+		{
+			"usetime"		"0"
+		}
+		"359550"
+		{
+			"usetime"		"1789.2215576171875"
+		}
+		"623990"
+		{
+			"usetime"		"250.25390625"
+		}
+		"883710"
+		{
+			"usetime"		"2.6494140625"
+		}
+		"601150"
+		{
+			"usetime"		"6831.85498046875"
+		}
+		"570"
+		{
+			"usetime"		"348.58154296875"
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.678950"
+		{
+			"rgPromptDismissals"		"3"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}
