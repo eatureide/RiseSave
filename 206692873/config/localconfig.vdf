@@ -600,7 +600,7 @@
 	"ControllerTypesUsed"		"controller_xboxone,controller_ps4,controller_xbox360,"
 	"CloudKey"		"0100000098d345b0b6c607483345f332ed1068078f21c114811fd91732165922713259087b4a04e2"
 	"CloudKeyCRC"		"-2056251018"
-	"AppInfoChangeNumber"		"16233854"
+	"AppInfoChangeNumber"		"16233906"
 	"WebStorage"
 	{
 		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":1446780},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":[]}}"
