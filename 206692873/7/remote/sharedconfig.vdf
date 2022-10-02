@@ -91,10 +91,6 @@
 					}
 					"310950"
 					{
-						"tags"
-						{
-							"0"		"favorite"
-						}
 					}
 					"431960"
 					{
@@ -110,11 +106,11 @@
 						"cloudenabled"		"1"
 					}
 				}
-				"DesktopShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"0"
 				"StartMenuShortcutCheck"		"0"
-				"SurveyDate"		"2021-07-09"
+				"SurveyDate"		"2022-07-16"
 				"SurveyDateVersion"		"1270657396205518524"
-				"FriendsUI"
+				"friendsui"
 				{
 					"FriendsUIJSON"		"{\"bNotifications_ShowIngame\":true,\"bNotifications_ShowOnline\":false,\"bNotifications_ShowMessage\":true,\"bNotifications_EventsAndAnnouncements\":true,\"bSounds_PlayIngame\":false,\"bSounds_PlayOnline\":false,\"bSounds_PlayMessage\":true,\"bSounds_EventsAndAnnouncements\":false,\"bAlwaysNewChatWindow\":false,\"bForceAlphabeticFriendSorting\":false,\"nChatFlashMode\":0,\"bRememberOpenChats\":true,\"bCompactQuickAccess\":false,\"bCompactFriendsList\":false,\"bNotifications_ShowChatRoomNotification\":true,\"bSounds_PlayChatRoomNotification\":true,\"bHideOfflineFriendsInTagGroups\":false,\"bHideCategorizedFriends\":false,\"bCategorizeInGameFriendsByGame\":true,\"nChatFontSize\":2,\"b24HourClock\":false,\"bDoNotDisturbMode\":false,\"bDisableEmbedInlining\":false,\"bSignIntoFriends\":true,\"bDisableSpellcheck\":false,\"bDisableRoomEffects\":false,\"bAnimatedAvatars\":true,\"featuresEnabled\":{\"DoNotDisturb\":1,\"LoaderWindowSynchronization\":1,\"NonFriendMessageHandling\":1,\"NewVoiceHotKeyState\":1,\"PersonaNotifications\":1,\"ServerVirtualizedMemberLists\":1,\"SteamworksChatAPI\":1},\"bSingleWindowMode\":false}"
 				}
